@@ -38,5 +38,5 @@ A web application that connects employers and job seekers, allowing employers to
 #### JSON data
 
 ## Authors
-# Sushma M Maddin (sushmamaddin@gmail.com) (Backend Development)
-# Sinchana A U (sinchanaau@gmail.com) (Frontend Development)
+### Sushma M Maddin (sushmamaddin@gmail.com) (Backend Development)
+### Sinchana A U (sinchanaau@gmail.com) (Frontend Development)
